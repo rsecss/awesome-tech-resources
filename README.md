@@ -46,13 +46,13 @@
 - **[Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - 开源的 AI 绘画工具**
 - [Midjourney](https://www.midjourney.com/home) - AI 绘画工具
 
-### 模型托管库
+### 📦 模型托管库
 
 - **[Hugging Face](https://huggingface.co/models) - 最大的开源模型社区，提供模型下载和在线体验**
 - [Model Scope](https://modelscope.cn/models) - 阿里开源的模型社区
 - [Ollama Library](https://ollama.com/library) - Ollama 官方模型库
 
-### 本地 AI 部署工具
+### 🖥️ AI 部署工具
 
 - **[Ollama](https://ollama.com/) - 轻量级的本地 AI 模型运行框架，让用户能够在本地轻松运行和管理各种大型语言模型**
 
@@ -65,7 +65,7 @@
 - [ToDesk](https://www.todesk.com/) - 远程桌面软件
 - [VMware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - 虚拟机管理软件
 
-### ☁️ 在线工具
+### 🌐 在线工具
 
 - **[draw.io](https://app.diagrams.net/) - 免费的在线绘图工具**
 - **[Carbon](https://carbon.now.sh/) - 免费在线创建美观的代码截图工具**
@@ -99,7 +99,7 @@
 - [LocalSend](https://localsend.org/) - 一款免费开源应用，可通过本地网络与附近的设备安全地共享文件和消息，而无需互联网连接
 - [TAICHI](https://github.com/moshstudio/TAICHI-flet?tab=readme-ov-file) - 一款多功能娱乐软件，包含浏览图片、音乐、小说等功能
 
-### 💿 网盘
+### ☁️ 网盘
 
 - **[蓝奏·云](https://www.lanzou.com/) - 高速传输但有文件大小限制**
 - **[百度网盘](https://pan.baidu.com/) - 提供多种终端云存储，大容量存储但限速**
@@ -107,7 +107,9 @@
 
 ## 🌍 博客与社区
 
-### 社区平台
+### ✍️ 博客
+
+### 🏛️ 社区
 
 - **[Stack Overflow](https://stackoverflow.com/) - 最受欢迎的程序员问答社区，解决技术难题的首选**
 - [稀土掘金](https://juejin.cn/) - 高质量的开发者社区，技术文章和经验分享平台
